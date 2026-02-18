@@ -1,4 +1,4 @@
-- 🔭 I’m currently working on [BFRC)](https://www.bravefrontierrecoded.online/)
+- 🔭 I’m currently working on [BFRC](https://www.bravefrontierrecoded.online/)
 - 🗄️ I'm currently working at Automata
 <!--
 **tomBeaney/tomBeaney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
